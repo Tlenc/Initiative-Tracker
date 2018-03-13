@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InitiativeTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InitiativeTracker_jar</output-path>
+    <root id="archive" name="InitiativeTracker.jar">
+      <element id="module-output" name="InitiativeTracker" />
+    </root>
+  </artifact>
+</component>
